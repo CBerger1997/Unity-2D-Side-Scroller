@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 813c833489572704ba7854bf417c5bc2
+timeCreated: 1480947327
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Running blob_0
+    21300002: Running blob_1
+    21300004: Running blob_2
+    21300006: Running blob_3
+    21300008: Running blob_4
+    21300010: Running blob_5
+    21300012: Running blob_6
+    21300014: Running blob_7
+    21300016: Running blob_8
+    21300018: Running blob_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Running blob_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25.5}
+        - {x: -21, y: 1.5}
+        - {x: -21, y: -18.5}
+        - {x: -14, y: -25.5}
+        - {x: -5, y: -28.5}
+        - {x: 20, y: -28.5}
+        - {x: 20, y: 25.5}
+    - name: Running blob_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 28.5}
+        - {x: -19, y: 13.5}
+        - {x: -19, y: -19.5}
+        - {x: -13, y: -28.5}
+        - {x: 17, y: -28.5}
+        - {x: 20, y: -12.5}
+        - {x: 20, y: 26.5}
+        - {x: 16, y: 28.5}
+    - name: Running blob_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 28.5}
+        - {x: -4, y: 28.5}
+        - {x: -14, y: 4.5}
+        - {x: -14, y: -28.5}
+        - {x: 4, y: -28.5}
+        - {x: 14, y: -15.5}
+        - {x: 19, y: 14.5}
+        - {x: 19, y: 25.5}
+    - name: Running blob_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 28.5}
+        - {x: -5, y: 21.5}
+        - {x: -17, y: -19.5}
+        - {x: -17, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 21, y: -14.5}
+        - {x: 21, y: 27.5}
+        - {x: 18, y: 28.5}
+    - name: Running blob_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 28.5}
+        - {x: -6, y: 22.5}
+        - {x: -21, y: -5.5}
+        - {x: -21, y: -26.5}
+        - {x: 21, y: -26.5}
+        - {x: 21, y: 27.5}
+        - {x: 18, y: 28.5}
+    - name: Running blob_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 25.5}
+        - {x: -1.5, y: 20.5}
+        - {x: -2.5, y: 17.5}
+        - {x: -19.5, y: 1.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -21.5}
+        - {x: -6.5, y: -28.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 20.5, y: 23.5}
+        - {x: 16.5, y: 25.5}
+    - name: Running blob_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 28.5}
+        - {x: -17, y: 8.5}
+        - {x: -17, y: -18.5}
+        - {x: -8, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: 25.5}
+        - {x: 17, y: 28.5}
+    - name: Running blob_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 28.5}
+        - {x: -13, y: 9.5}
+        - {x: -13, y: -28.5}
+        - {x: 11, y: -28.5}
+        - {x: 20, y: -1.5}
+        - {x: 20, y: 28.5}
+    - name: Running blob_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 27.5}
+        - {x: -3, y: 22.5}
+        - {x: -19, y: -20.5}
+        - {x: -19, y: -28.5}
+        - {x: 8, y: -28.5}
+        - {x: 17, y: -26.5}
+        - {x: 21, y: -2.5}
+        - {x: 21, y: 23.5}
+        - {x: 16, y: 27.5}
+    - name: Running blob_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 28.5}
+        - {x: -6, y: 22.5}
+        - {x: -21, y: -5.5}
+        - {x: -21, y: -26.5}
+        - {x: 21, y: -26.5}
+        - {x: 21, y: 27.5}
+        - {x: 18, y: 28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
